@@ -1,13 +1,11 @@
-# Weather Scanner
-This is a React.Js project built to look further into stateless functional components in React.
-
-It project is a weather application that calls the openweathermap api to render the conditions of supplied countries and cities.
+# React Weather App
+This is a weather application that calls the OpenWeatherMap api to render the conditions of supplied countries and cities.
 
 
-## Installation
+## To Run
+- Make a free account on OpenWeatherMap [here](https://home.openweathermap.org/users/sign_up)
+- Clone into the repo and type:
+`npm install`
+`npm start`
 
-Same old way...
-
-* git clone 
-* npm install
-* npm start
+App is hosted [here](https://afternoon-wildwood-86833.herokuapp.com/)
